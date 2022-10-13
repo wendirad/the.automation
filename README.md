@@ -1,4 +1,8 @@
 # 🅃🄷🄴 🄰🅄🅃🄾🄼🄰🅃🄸🄾🄽
+[![Github issues](https://img.shields.io/github/issues/wendirad/the.automation.svg?style=for-the-badge)](https://github.com/wendirad/the.automation/issues)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-white.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=for-the-badge)](http://www.firsttimersonly.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Have you ever wrote a small script that used to automate things, but feel too small to be a repository. Well this is a right place to put you contribution, and share what you have did. This repository is to share a collection of simple task automation scripts in well organized form :wink:. 
 
