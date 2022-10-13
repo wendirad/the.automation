@@ -1,6 +1,9 @@
 # 🅃🄷🄴 🄰🅄🅃🄾🄼🄰🅃🄸🄾🄽
 [![Github issues](https://img.shields.io/github/issues/wendirad/the.automation.svg?style=for-the-badge)](https://github.com/wendirad/the.automation/issues)
+[![Github Forks](https://img.shields.io/github/forks/wendirad/the.automation.svg?style=for-the-badge)](https://github.com/wendirad/the.automation/fork)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-white.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![Github Stars](https://img.shields.io/github/stars/wendirad/the.automation.svg?style=for-the-badge)](https://github.com/wendirad/the.automation/start)
+
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=for-the-badge)](http://www.firsttimersonly.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
