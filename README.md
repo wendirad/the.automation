@@ -10,6 +10,6 @@ Have you ever wrote a small script that used to automate things, but feel too sm
 *
 
 ## Contributing Guidelines
-Please take a look at our [`CONTRIBUTION.md`](https://github.com/wendirad/the.automation/CONTRIBUTION.md) file.
+Please take a look at our [CONTRIBUTING.md](https://github.com/wendirad/the.automation/blob/main/CONTRIBUTING.md) file.
 
 <h2 align="center">тнαηк уσυ 💝</h2>
